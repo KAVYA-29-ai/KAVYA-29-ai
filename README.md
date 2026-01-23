@@ -93,7 +93,7 @@ I focus on **practical execution**, not just theory — building solutions that 
   <a href="https://www.linkedin.com/in/kavya-rajput-431055370">
     <img src="https://img.shields.io/badge/LinkedIn-Kavya%20Rajput-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://github.com/KavyaRajput">
+  <a href="https://github.com/Kavya-29-ai">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
   </a>
 </p>
