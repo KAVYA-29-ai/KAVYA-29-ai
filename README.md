@@ -85,14 +85,6 @@ I focus on **practical execution**, not just theory — building solutions that 
 
 ---
 
-## 🎵 Coding Vibes (OPTIONAL MUSIC)
-
-> GitHub autoplay allow nahi karta, but **Spotify / Now Playing widget** ka cool effect milta hai 👇
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false" />
-</p>
-
 ---
 
 ## 🌐 Connect With Me
