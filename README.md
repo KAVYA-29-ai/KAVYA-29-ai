@@ -330,10 +330,7 @@ console.log(`${kavyaRajput.name} is online and ready to revolutionize tech! 🚀
 |:----------------|:-------------|:------------|:-------------|
 | AI Systems Deployed | ✅ **15+** | ⭐⭐⭐⭐⭐ | Global Scale |
 | Code Quality Score | ✅ **98%** | ⭐⭐⭐⭐⭐ | Production Ready |
-| Open Source Contributions | ✅ **200+** | ⭐⭐⭐⭐⭐ | Community Leader |
-| Research Papers | ✅ **3** | ⭐⭐⭐⭐ | Peer Reviewed |
-| Hackathon Wins | ✅ **5** | ⭐⭐⭐⭐⭐ | 1st Place |
-| Mentorship Hours | ✅ **500+** | ⭐⭐⭐⭐⭐ | Impact Multiplier |
+| Open Source Contributions | ✅ **2** | ⭐⭐⭐⭐⭐ | Community Leader |
 | API Integrations | ✅ **30+** | ⭐⭐⭐⭐⭐ | Enterprise Grade |
 
 <img src="https://img.shields.io/badge/CERTIFICATION_COUNT-15+-gold?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=000000" />
